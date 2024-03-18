@@ -4,22 +4,24 @@
     {
         static void Main(string[] args)
         {
-            int contador = 1, x = 10, soma=0, resultado=0;
-            while (contador != x)
+            int contador, x = 500,  resultado = 0;
+          
+            for ( contador = 0; contador < x; contador++) 
             {
-                if (contador % 2 != 0) {
-                    Console.WriteLine(contador);
-                    if(contador % 3 != 0)
+                if (contador % 2 != 0)
+                {
+                    if (contador % 3 == 0)
                     {
-                        Console.WriteLine("A soma dos multiplos de 3 impares é: " + contador);
-                        contador++;
+                      resultado = contador +resultado;
+                        
                     }
-                
-                    contador++;
+
+                   
                 }
             }
 
-           
+            Console.WriteLine("A soma dos multiplos impares de 3 é: " + resultado);
+            Console.ReadLine();
         }
     }
 }
