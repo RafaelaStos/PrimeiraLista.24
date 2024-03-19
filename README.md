@@ -1,6 +1,6 @@
 # Academia do Programador
 
-## Lista de Exercícios 1
+## Lista de Exercícios 
 
 Uma lista com 28 exercícos de logóica de programação, ultilizando linguagem C#.
 
