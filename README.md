@@ -1,15 +1,15 @@
 # Academia do Programador
 
-## Lista de ExercÌcios
+## Lista de Exerc√≠cios 1
 
-Uma lista com 28 exercÌcos de logÛica de programaÁ„o, ultilizando linguagem C#.
+Uma lista com 28 exerc√≠cos de log√≥ica de programa√ß√£o, ultilizando linguagem C#.
 
 ---
 ## Funcionalidades
 
 - **Entrada, Processamento e Saida de Dados**: Exercicio de 1 ao 16.
-- **Estrutura de Decis„o**: Exercicio de 17 ao 21.
-- **Estrutura de RepetiÁ„o**: Exercicio de 22 ao 28.
+- **Estrutura de Decis√£o**: Exercicio de 17 ao 21.
+- **Estrutura de Repeti√ß√£o**: Exercicio de 22 ao 28.
 
 ---
 
